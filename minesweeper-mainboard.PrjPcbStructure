@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=root.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Power Input & Regulation|SchDesignator=Power Input & Regulation|FileName=power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Raspberry Pi, BLDC, Stepper, and Coil Connectors|SchDesignator=Raspberry Pi, BLDC, Stepper, and Coil Connectors|FileName=connectors.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

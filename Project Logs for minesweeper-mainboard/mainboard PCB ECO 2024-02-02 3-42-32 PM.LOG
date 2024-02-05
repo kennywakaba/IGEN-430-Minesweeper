@@ -1,0 +1,13 @@
+Added Component: Designator=J?(CN HDR 40POS 0.1 TH)
+Add component (AddParameter): Name = "Part Number"; Value = "CN HDR 40POS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S6104-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPTC202LFBN-RC/807240?s=N4IgTCBcDaIMoDYCMAGALAWgHIBEQF0BfIA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VBAT Pin=J1-1
+Added Pin To Net: NetName=5V Pin=J?-02
+Added Pin To Net: NetName=5V Pin=J?-04
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J?-39
+Added Net: Name=GND
+Added Member To Class: ClassName=connectors Member=Component J? CN HDR 40POS
