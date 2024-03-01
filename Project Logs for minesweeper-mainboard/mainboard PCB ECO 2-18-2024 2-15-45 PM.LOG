@@ -1,0 +1,23 @@
+Added Component: Designator=J4(CON4_1X4_P100RM_HDR_TYC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "826949-4-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "826949-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J5(CON4_1X4_P100RM_HDR_TYC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "826949-4-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "826949-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1A1 Pin=J4-1
+Added Pin To Net: NetName=1B1 Pin=J4-2
+Added Pin To Net: NetName=2A1 Pin=J4-3
+Added Pin To Net: NetName=2B1 Pin=J4-4
+Added Pin To Net: NetName=5V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=SPWM6 Pin=J5-3
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J4 826949-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J5 826949-4

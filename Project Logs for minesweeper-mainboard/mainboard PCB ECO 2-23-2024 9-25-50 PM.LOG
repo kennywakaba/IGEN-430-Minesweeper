@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R3 Old Footprint=0603 New Footprint=0805
+Change Component Comment : Designator=R3 Old Comment=JUMPER New Comment=0
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0603"; UniqueID = "\TRYBFFTN\KXPTBBUY" ("\TRYBFFTN\KXPTBBUY")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 0 JUMPER 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-2

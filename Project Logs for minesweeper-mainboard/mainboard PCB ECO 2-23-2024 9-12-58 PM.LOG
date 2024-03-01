@@ -1,0 +1,7 @@
+Added Component: Designator=R7(0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10.2k 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10.2k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R7 10.2k

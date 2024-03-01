@@ -1,0 +1,33 @@
+Added Component: Designator=J3(CN HDR 40POS 0.1 TH)
+Add component (AddParameter): Name = "Part Number"; Value = "CN HDR 40POS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S6104-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPTC202LFBN-RC/807240?s=N4IgTCBcDaIMoDYCMAGALAWgHIBEQF0BfIA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=J3-01
+Added Pin To Net: NetName=5V Pin=J3-02
+Added Pin To Net: NetName=DIR1 Pin=J3-03
+Added Pin To Net: NetName=5V Pin=J3-04
+Added Pin To Net: NetName=DIR2 Pin=J3-05
+Added Pin To Net: NetName=GND Pin=J3-06
+Added Pin To Net: NetName=GND Pin=J3-09
+Added Pin To Net: NetName=FG1 Pin=J3-11
+Added Pin To Net: NetName=FG2 Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Pin To Net: NetName=FG3 Pin=J3-15
+Added Pin To Net: NetName=PWM1 Pin=J3-16
+Added Pin To Net: NetName=3.3V Pin=J3-17
+Added Pin To Net: NetName=PWM2 Pin=J3-18
+Added Pin To Net: NetName=FG4 Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J3-20
+Added Pin To Net: NetName=PWM3 Pin=J3-22
+Added Pin To Net: NetName=GND Pin=J3-25
+Added Pin To Net: NetName=FG5 Pin=J3-29
+Added Pin To Net: NetName=FG6 Pin=J3-31
+Added Pin To Net: NetName=PWM4 Pin=J3-32
+Added Pin To Net: NetName=GND Pin=J3-34
+Added Pin To Net: NetName=PWM5 Pin=J3-36
+Added Pin To Net: NetName=PWM6 Pin=J3-37
+Added Pin To Net: NetName=GND Pin=J3-39
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J3 CN HDR 40POS
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component U2 NE555DR

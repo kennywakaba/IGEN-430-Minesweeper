@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Component: Designator=R1(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ104V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 100k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ104VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ104V/13877854?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENEAWANQGEAVJAOQBEQBdAXyA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ104V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 100k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ104VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ104V/13877854?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENEAWANQGEAVJAOQBEQBdAXyA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=S1-2
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R1 100k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R2 100k

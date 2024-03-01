@@ -1,0 +1,43 @@
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C1 0.1uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C2 10uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C3 10uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C4 0.1uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C5 10uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C6 10uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C7 10uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C8 10uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C9 0.1uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C10 33nF 50V
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component C11 2.2uF
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component C12 2.2uF
+Added Member To Class: ClassName=Power Input & Regulation Member=Component D1 SMAZ12-13-F
+Added Member To Class: ClassName=Power Input & Regulation Member=Component F1 3557-2
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J1 5-103634-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J2 5-103634-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J4 826949-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J5 826949-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J6 5-103634-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J7 5-103634-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J8 5-103634-4
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component J9 5-103634-4
+Added Member To Class: ClassName=Power Input & Regulation Member=Component L1 PA4342.332NLT
+Added Member To Class: ClassName=Power Input & Regulation Member=Component P1 XT60
+Added Member To Class: ClassName=Power Input & Regulation Member=Component Q1 IPD85P04P4-07
+Added Member To Class: ClassName=Power Input & Regulation Member=Component Q2 IPD85P04P4-07
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R1 100k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R2 100k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R3 JUMPER
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R4 JUMPER
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R5 JUMPER
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R6 53.6k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R7 10.2k
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component R8 47k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component S1 SW SLIDE SMALL
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component TP1 Test Point - 5019
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component TP2 Test Point - 5019
+Added Member To Class: ClassName=Power Input & Regulation Member=Component U1 TPS62933ODRLR
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component U2 NE555DR
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component U? A4988_STEPPER_MOTOR_DRIVER_CARRIER
+Added Room: Name=555 Metal Detector Circuit
+Added Room: Name=Power Input & Regulation
+Added Room: Name=Raspberry Pi, BLDC, Stepper, and Coil Connectors
