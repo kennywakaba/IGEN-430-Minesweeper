@@ -1,0 +1,32 @@
+Add Component: Footprint Not Found SW_TL3305AF260QG
+Add Component: Footprint Not Found 0603
+Add Component: Footprint Not Found 0603
+Added Component: Designator=J?(WURTH_61300411121)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61300411121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/61300411121/Wurth+Electronics+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SW_TL3305AF260QG
+Add Pin To Net: Unknown Pin: Pin BOOT1-1
+Add Pin To Net: Unknown Pin: Pin BOOT1-3
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Added Pin To Net: NetName=5V_FLASH Pin=J?-01
+Added Pin To Net: NetName=GND Pin=J?-04
+Add Pin To Net: Unknown Pin: Pin RESET1-1
+Add Pin To Net: Unknown Pin: Pin RESET1-3
+Added Pin To Net: NetName=NetJ?_02 Pin=J?-02
+Added Pin To Net: NetName=NetJ?_02 Pin=R13-1
+Added Net: Name=NetJ?_02
+Added Pin To Net: NetName=NetJ?_03 Pin=J?-03
+Added Pin To Net: NetName=NetJ?_03 Pin=R15-1
+Added Net: Name=NetJ?_03
+Add Class Member: Failed to add class member : Component BOOT1 TL3305AF260QG
+Add Class Member: Failed to add class member : Component C14 0.10uF
+Add Class Member: Failed to add class member : Component C15 0.10uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component J? 61300411121
+Add Class Member: Failed to add class member : Component RESET1 TL3305AF260QG
