@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:52:48 AM On 3/8/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [minesweeper-mainboard.PrjPcb]
+   Generated File[//d.docs.live.net/649dfdc13902ec6b/Desktop/IGEN-430-Minesweeper/Project Outputs for Free Documents/BOM/Bill of Materials-minesweeper-mainboard.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:53:20 AM On 3/8/2024

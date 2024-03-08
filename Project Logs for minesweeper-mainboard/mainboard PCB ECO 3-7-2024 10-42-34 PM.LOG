@@ -1,0 +1,316 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=DIR1 Pin=J3-03
+Removed Pin From Net: NetName=DIR2 Pin=J3-05
+Removed Pin From Net: NetName=FG1 Pin=J3-11
+Removed Pin From Net: NetName=FG2 Pin=J3-13
+Removed Pin From Net: NetName=FG3 Pin=J3-15
+Removed Pin From Net: NetName=FG4 Pin=J3-19
+Removed Pin From Net: NetName=FG5 Pin=J3-29
+Removed Pin From Net: NetName=FG6 Pin=J3-31
+Removed Pin From Net: NetName=5V Pin=J5-1
+Removed Pin From Net: NetName=3V3 Pin=R14-1
+Removed Pin From Net: NetName=EN Pin=R14-2
+Removed Pin From Net: NetName=Net1_1 Pin=U4-7
+Removed Pin From Net: NetName=Net12_1 Pin=U4-36
+Removed Pin From Net: NetName=Net15_1 Pin=U4-42
+Change Component Footprint: Designator=C13 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C16 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C17 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C18 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C19 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C20 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C21 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C22 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C23 Old Footprint=0603 New Footprint=0805
+Change Component Comment : Designator=R16 Old Comment=1k New Comment=150
+Change Component Comment : Designator=R18 Old Comment=1k New Comment=150
+Change Component Comment : Designator=R14 Old Comment=10k New Comment=150
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0603"; UniqueID = "\SXTODWQV\SSTTGFEZ" ("\SXTODWQV\SSTTGFEZ")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "0603"; UniqueID = "\ODOQAJOD\LVZMPEVT" ("\ODOQAJOD\LVZMPEVT")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP 0.1uF 50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0603"; UniqueID = "\SXTODWQV\BOBWSPCK" ("\SXTODWQV\BOBWSPCK")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0603"; UniqueID = "\SXTODWQV\LPMFVDDK" ("\SXTODWQV\LPMFVDDK")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=18(BreakoutPin 0603)
+Add component (AddParameter): Name = "Part Number"; Value = "Breakout Pin 0603"; VariantName = "[No Variations]"
+Added Component: Designator=19(BreakoutPin 0603)
+Add component (AddParameter): Name = "Part Number"; Value = "Breakout Pin 0603"; VariantName = "[No Variations]"
+Added Component: Designator=20(BreakoutPin 0603)
+Add component (AddParameter): Name = "Part Number"; Value = "Breakout Pin 0603"; VariantName = "[No Variations]"
+Added Component: Designator=21(BreakoutPin 0603)
+Add component (AddParameter): Name = "Part Number"; Value = "Breakout Pin 0603"; VariantName = "[No Variations]"
+Added Component: Designator=22(BreakoutPin 0603)
+Add component (AddParameter): Name = "Part Number"; Value = "Breakout Pin 0603"; VariantName = "[No Variations]"
+Added Component: Designator=23(BreakoutPin 0603)
+Add component (AddParameter): Name = "Part Number"; Value = "Breakout Pin 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0805)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 0.1uF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "TN2130K1-GDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "TN2130K1-GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MOSFET N-CH TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/TN2130K1-G/4902939"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "TN2130K1-GDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "TN2130K1-GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MOSFET N-CH TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/TN2130K1-G/4902939"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "TN2130K1-GDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "TN2130K1-GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MOSFET N-CH TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/TN2130K1-G/4902939"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOT95P237X112-3N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "TN2130K1-GDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "TN2130K1-GTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MOSFET N-CH TN2130K1-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TN2130K1-GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.com/en/products/detail/microchip-technology/TN2130K1-G/4902939"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES_YC248_4X1P6_YAG-M)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RMCF0603FT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 4.7k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603FT4K70CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0603FT4K70/1760998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RMCF0603FT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 4.7k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0603FT4K70CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0603FT4K70/1760998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R23(0603)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10k 1/8W - 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=EN Pin=C15-2
+Added Pin To Net: NetName=DIR1 Pin=J3-07
+Added Pin To Net: NetName=DIR2 Pin=J3-11
+Added Pin To Net: NetName=F_END Pin=J3-13
+Added Pin To Net: NetName=B_END Pin=J3-15
+Added Pin To Net: NetName=SPWM6 Pin=J3-33
+Added Pin To Net: NetName=5V_PI Pin=J5-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=5V_PI Pin=R14-2
+Added Pin To Net: NetName=5V_PI Pin=R16-2
+Added Pin To Net: NetName=5V_PI Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-7
+Added Pin To Net: NetName=GND Pin=R19-8
+Added Pin To Net: NetName=GND Pin=R19-9
+Added Pin To Net: NetName=GND Pin=R19-10
+Added Pin To Net: NetName=3V3 Pin=R21-2
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=EN Pin=R23-1
+Added Pin To Net: NetName=3V3 Pin=R23-2
+Added Pin To Net: NetName=Net1_1 Pin=U4-5
+Added Pin To Net: NetName=MD_OUT Pin=U4-6
+Added Pin To Net: NetName=FG6 Pin=U4-7
+Added Pin To Net: NetName=MD_OUT Pin=U4-14
+Added Pin To Net: NetName=FG1 Pin=U4-15
+Added Pin To Net: NetName=FG3 Pin=U4-24
+Added Pin To Net: NetName=Net12_1 Pin=U4-28
+Added Pin To Net: NetName=FG2 Pin=U4-29
+Added Pin To Net: NetName=Net15_1 Pin=U4-34
+Added Pin To Net: NetName=FG4 Pin=U4-35
+Added Pin To Net: NetName=FG5 Pin=U4-36
+Change Net Name : Old Net Name=NetJ?_02 New Net Name=NetJ13_02
+Change Net Name : Old Net Name=NetJ?_03 New Net Name=NetJ13_03
+Added Pin To Net: NetName=D_LED1 Pin=J3-19
+Added Pin To Net: NetName=D_LED1 Pin=Q3-1
+Added Net: Name=D_LED1
+Added Pin To Net: NetName=D_LED2 Pin=J3-10
+Added Pin To Net: NetName=D_LED2 Pin=Q4-1
+Added Net: Name=D_LED2
+Added Pin To Net: NetName=D_LED3 Pin=J3-24
+Added Pin To Net: NetName=D_LED3 Pin=Q5-1
+Added Net: Name=D_LED3
+Added Pin To Net: NetName=D_LED4 Pin=J3-38
+Added Pin To Net: NetName=D_LED4 Pin=Q6-1
+Added Net: Name=D_LED4
+Added Pin To Net: NetName=I2C_SCL Pin=J3-05
+Added Pin To Net: NetName=I2C_SCL Pin=R22-1
+Added Pin To Net: NetName=I2C_SCL Pin=U4-39
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=J3-03
+Added Pin To Net: NetName=I2C_SDA Pin=R21-1
+Added Pin To Net: NetName=I2C_SDA Pin=U4-42
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=Net18_1 Pin=18-1
+Added Pin To Net: NetName=Net18_1 Pin=U4-20
+Added Net: Name=Net18_1
+Added Pin To Net: NetName=Net19_1 Pin=19-1
+Added Pin To Net: NetName=Net19_1 Pin=U4-17
+Added Net: Name=Net19_1
+Added Pin To Net: NetName=Net20_1 Pin=20-1
+Added Pin To Net: NetName=Net20_1 Pin=U4-21
+Added Net: Name=Net20_1
+Added Pin To Net: NetName=Net21_1 Pin=21-1
+Added Pin To Net: NetName=Net21_1 Pin=U4-16
+Added Net: Name=Net21_1
+Added Pin To Net: NetName=Net22_1 Pin=22-1
+Added Pin To Net: NetName=Net22_1 Pin=U4-12
+Added Net: Name=Net22_1
+Added Pin To Net: NetName=Net23_1 Pin=23-1
+Added Pin To Net: NetName=Net23_1 Pin=U4-13
+Added Net: Name=Net23_1
+Added Pin To Net: NetName=NetD6_A Pin=R14-1
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD6_C Pin=Q3-3
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetD7_A Pin=R16-1
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD7_C Pin=Q4-3
+Added Net: Name=NetD7_C
+Added Pin To Net: NetName=NetD8_A Pin=R18-1
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD8_C Pin=Q5-3
+Added Net: Name=NetD8_C
+Added Net: Name=NetD9_A
+Added Pin To Net: NetName=NetD9_C Pin=Q6-3
+Added Net: Name=NetD9_C
+Added Pin To Net: NetName=ST_DIR Pin=J3-31
+Added Pin To Net: NetName=ST_DIR Pin=U3-8
+Added Net: Name=ST_DIR
+Added Pin To Net: NetName=STEP Pin=J3-29
+Added Pin To Net: NetName=STEP Pin=U3-7
+Added Net: Name=STEP
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 1 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 2 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 3 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 4 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 5 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 6 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 7 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 8 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 9 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 10 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 11 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 12 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 13 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 14 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 15 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 16 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 17 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 18 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 19 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 20 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 21 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 22 Breakout Pin 0603
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 23 Breakout Pin 0603
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component C11 2.2uF
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component C12 2.2uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C13 0.10uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C15 0.10uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C16 4.7uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C17 1.0uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C18 1.0uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C19 1.0uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C20 1.0uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C21 1.0uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C22 1.0uF
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C23 1.0uF
+Added Member To Class: ClassName=Power Input & Regulation Member=Component D2 SML-LXT0805IW-TR
+Added Member To Class: ClassName=Power Input & Regulation Member=Component D3 SML-LXT0805IW-TR
+Added Member To Class: ClassName=Power Input & Regulation Member=Component D4 SM5817PL-TP
+Added Member To Class: ClassName=Power Input & Regulation Member=Component D5 SM5817PL-TP
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component FL_RX1 Test Point (Via)
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component FL_TX1 Test Point (Via)
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component J13 61300411121
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component Q3 TN2130K1-G
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component Q4 TN2130K1-G
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component Q5 TN2130K1-G
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component Q6 TN2130K1-G
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R3 0
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component R8 47k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R9 150
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R10 1k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R11 10k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R12 10k
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component R13 1k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R14 150
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component R15 1k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R16 150
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component R17 10k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R18 150
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R19 YC248-JR-070RL
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component R21 4.7k
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component R22 4.7k
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component R23 10k
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component U2 NE555DR
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component U3 A4988_STEPPER_MOTOR_DRIVER_CARRIER
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component U4 ESP32-PICO-D4
