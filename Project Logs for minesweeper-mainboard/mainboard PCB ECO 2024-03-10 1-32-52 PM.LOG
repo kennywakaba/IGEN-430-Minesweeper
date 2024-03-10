@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=I_PWM1 Pin=R19-1
+Removed Pin From Net: NetName=I_PWM2 Pin=R19-3
+Removed Pin From Net: NetName=I_PWM3 Pin=R19-4
+Removed Pin From Net: NetName=I_PWM4 Pin=R19-5
+Removed Pin From Net: NetName=I_PWM5 Pin=R19-7
+Removed Pin From Net: NetName=I_PWM6 Pin=R19-8
+Removed Pin From Net: NetName=PWM6 Pin=R19-9
+Removed Pin From Net: NetName=PWM5 Pin=R19-10
+Removed Pin From Net: NetName=PWM4 Pin=R19-11
+Removed Pin From Net: NetName=PWM4 Pin=R19-12
+Removed Pin From Net: NetName=PWM3 Pin=R19-13
+Removed Pin From Net: NetName=PWM2 Pin=R19-14
+Removed Pin From Net: NetName=PWM1 Pin=R19-15
+Removed Pin From Net: NetName=PWM1 Pin=R19-16
+Removed Pin From Net: NetName=I_PWM1 Pin=R24-1
+Removed Pin From Net: NetName=I_PWM2 Pin=R24-2
+Removed Pin From Net: NetName=I_PWM3 Pin=R24-3
+Removed Pin From Net: NetName=I_PWM4 Pin=R24-4
+Removed Pin From Net: NetName=I_PWM5 Pin=R24-5
+Removed Pin From Net: NetName=I_PWM6 Pin=R24-6
+Added Pin To Net: NetName=I_PWM6 Pin=R19-1
+Added Pin To Net: NetName=I_PWM5 Pin=R19-3
+Added Pin To Net: NetName=I_PWM4 Pin=R19-4
+Added Pin To Net: NetName=I_PWM3 Pin=R19-5
+Added Pin To Net: NetName=I_PWM2 Pin=R19-7
+Added Pin To Net: NetName=I_PWM1 Pin=R19-8
+Added Pin To Net: NetName=PWM1 Pin=R19-9
+Added Pin To Net: NetName=PWM2 Pin=R19-10
+Added Pin To Net: NetName=PWM3 Pin=R19-11
+Added Pin To Net: NetName=PWM3 Pin=R19-12
+Added Pin To Net: NetName=PWM4 Pin=R19-13
+Added Pin To Net: NetName=PWM5 Pin=R19-14
+Added Pin To Net: NetName=PWM6 Pin=R19-15
+Added Pin To Net: NetName=PWM6 Pin=R19-16
+Added Pin To Net: NetName=I_PWM6 Pin=R24-1
+Added Pin To Net: NetName=I_PWM5 Pin=R24-2
+Added Pin To Net: NetName=I_PWM4 Pin=R24-3
+Added Pin To Net: NetName=I_PWM3 Pin=R24-4
+Added Pin To Net: NetName=I_PWM2 Pin=R24-5
+Added Pin To Net: NetName=I_PWM1 Pin=R24-6
+Change Net Name : Old Net Name=J_PWM_L New Net Name=J_PWM_R
+Change Net Name : Old Net Name=J_PWM_R New Net Name=J_PWM_L
+Added Room: Name=555 Metal Detector Circuit
+Added Room: Name=ESP32 Microcontroller
+Added Room: Name=Power Input & Regulation
+Added Room: Name=Raspberry Pi, BLDC, Stepper, and Coil Connectors

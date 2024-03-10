@@ -1,0 +1,83 @@
+Change Component Footprint: Designator=U1 Old Footprint=SOT5X3-8_DRL_TEX New Footprint=SOT_33DRLR_TEX
+Change Component Footprint: Designator=Q3 Old Footprint=SOT95P237X112-3N New Footprint=SOT23_TOS
+Change Component Footprint: Designator=Q4 Old Footprint=SOT95P237X112-3N New Footprint=SOT23_TOS
+Change Component Footprint: Designator=Q5 Old Footprint=SOT95P237X112-3N New Footprint=SOT23_TOS
+Change Component Footprint: Designator=Q6 Old Footprint=SOT95P237X112-3N New Footprint=SOT23_TOS
+Change Component Description : Designator=D3 Old Description=Green LED, 565 nm 0805Diffused, Rectangle Lens SMD package New Description=Green LED, 565 nm 0805Diffused, Rectangle Lens SMD package | Lumex SML-LXT0805GW-TR
+Change Component Description : Designator=D2 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D6 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D7 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D8 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D9 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Added Component: Designator=R39(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ103VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ103V/13877876?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENFcA1AYQBUkA5AERAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT10K0/1757762?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNAaTSXxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R40(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ103VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ103V/13877876?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENFcA1AYQBUkA5AERAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT10K0/1757762?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNAaTSXxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R41(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ103VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ103V/13877876?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENFcA1AYQBUkA5AERAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT10K0/1757762?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNAaTSXxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R42(0805)
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ERJ-H3GJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "RMCF0805JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 10k 1/8W - 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "10-ERJ-H3GJ103VCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "RMCF0805JT10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-H3GJ103V/13877876?s=N4IgTCBcDaIIwAYC0BRASgKSQCQMwHENFcA1AYQBUkA5AERAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT10K0/1757762?s=N4IgTCBcDaIEoFkDCAxADADjQVgFIBUBGNAaTSXxAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance 2"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=D_LED1 Pin=R39-2
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=D_LED2 Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=D_LED3 Pin=R41-2
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=D_LED4 Pin=R42-2
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R39 10k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R40 10k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R41 10k
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R42 10k
