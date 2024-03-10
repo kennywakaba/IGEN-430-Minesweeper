@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=R14 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R16 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R18 Old Footprint=0603 New Footprint=0805
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0603"; UniqueID = "\SXTODWQV\NKEQNMDW" ("\SXTODWQV\NKEQNMDW")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0603"; UniqueID = "\SXTODWQV\HMWRXHXS" ("\SXTODWQV\HMWRXHXS")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0603"; UniqueID = "\SXTODWQV\QWCUGQSG" ("\SXTODWQV\QWCUGQSG")
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES 150.0 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD9_A Pin=R20-1
+Added Pin To Net: NetName=5V_PI Pin=R20-2
+Added Member To Class: ClassName=Raspberry Pi, BLDC, Stepper, and Coil Connectors Member=Component R20 150

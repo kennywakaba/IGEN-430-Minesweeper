@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=5V_PI Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component J13 61300411121

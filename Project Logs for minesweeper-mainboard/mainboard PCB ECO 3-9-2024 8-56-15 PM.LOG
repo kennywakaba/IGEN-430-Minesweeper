@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PGND Pin=GND1-1
+Removed Pin From Net: NetName=GND Pin=PGND1-1
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=0603
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Pin To Net: NetName=PGND Pin=PGND1-1
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component 16 Breakout Pin 0603
+Added Member To Class: ClassName=Power Input & Regulation Member=Component GND1 Test Point - 5019

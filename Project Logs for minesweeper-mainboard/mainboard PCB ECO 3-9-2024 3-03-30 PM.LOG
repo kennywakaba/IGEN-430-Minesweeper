@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=FLASH_TX Pin=FL_TX1-1
+Added Pin To Net: NetName=FLASH_RX Pin=R13-2
+Added Pin To Net: NetName=NetFL_TX1_1 Pin=FL_TX1-1
+Added Pin To Net: NetName=NetFL_TX1_1 Pin=R15-2
+Added Net: Name=NetFL_TX1_1
+Added Pin To Net: NetName=NetJ13_02 Pin=J13-02
+Added Pin To Net: NetName=NetJ13_02 Pin=R13-1
+Added Net: Name=NetJ13_02

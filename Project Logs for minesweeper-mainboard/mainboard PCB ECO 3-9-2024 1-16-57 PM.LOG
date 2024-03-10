@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=GND Pin=J7-5
+Removed Pin From Net: NetName=GND Pin=J8-5
+Removed Pin From Net: NetName=GND Pin=J9-5
+Removed Pin From Net: NetName=FLASH_RX Pin=R13-2
+Removed Pin From Net: NetName=FLASH_TX Pin=R15-2
+Change Component Footprint: Designator=R13 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R15 Old Footprint=0603 New Footprint=0805
+Added Component: Designator=C14(0805)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP 0.1uF 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=BOOT Pin=C14-2
+Added Pin To Net: NetName=PGND Pin=J1-5
+Added Pin To Net: NetName=PGND Pin=J2-5
+Added Pin To Net: NetName=PGND Pin=J6-5
+Added Pin To Net: NetName=PGND Pin=J7-5
+Added Pin To Net: NetName=PGND Pin=J8-5
+Added Pin To Net: NetName=PGND Pin=J9-5
+Added Member To Class: ClassName=ESP32 Microcontroller Member=Component C14 0.10uF

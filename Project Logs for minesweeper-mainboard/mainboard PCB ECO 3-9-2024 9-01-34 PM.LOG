@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=FG1 Pin=R27-1
+Added Pin To Net: NetName=FG4 Pin=R28-1
+Added Pin To Net: NetName=FG2 Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=FG5 Pin=R30-1
+Added Pin To Net: NetName=FG3 Pin=R31-1
+Added Pin To Net: NetName=I_PWM1 Pin=R33-1
