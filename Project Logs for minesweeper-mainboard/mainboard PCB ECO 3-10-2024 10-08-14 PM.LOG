@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=J13-04
+Added Room: Name=555 Metal Detector Circuit
+Added Room: Name=ESP32 Microcontroller
+Added Room: Name=Power Input & Regulation
+Added Room: Name=Raspberry Pi, BLDC, Stepper, and Coil Connectors

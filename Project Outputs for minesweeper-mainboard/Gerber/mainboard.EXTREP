@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: mainboard.GBR   3/10/2024  11:16:55 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Mask                                
+.GTL                SIG1                                    
+.G1                 GND                                     
+.G2                 PWR                                     
+.GBL                SIG2                                    
+.GBS                Bottom Mask                             
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM4                Mechanical 4                            
+.GM5                Mechanical 5                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+.2                  Core                                    
+.1                  Dielectric 1                            
+.3                  Dielectric 2                            
+.GML                Multi-Layer                             
+------------------------------------------------------------------------------------------

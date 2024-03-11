@@ -1,0 +1,14 @@
+Added Component: Designator=U2(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NE555DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetC11_1 Pin=U2-2
+Added Pin To Net: NetName=MD_OUT Pin=U2-3
+Added Pin To Net: NetName=5V_PI Pin=U2-4
+Added Pin To Net: NetName=NetC11_1 Pin=U2-6
+Added Pin To Net: NetName=5V_PI Pin=U2-8
+Added Member To Class: ClassName=555 Metal Detector Circuit Member=Component U2 NE555DR

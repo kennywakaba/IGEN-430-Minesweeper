@@ -1,0 +1,8 @@
+Change Component Comment : Designator=D3 Old Comment=SML-LXT0805GW-TR New Comment=SML-LXT0805IW-TR
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LEDC2012X120N"; UniqueID = "\TRYBFFTN\XRNJVRNJ" ("\TRYBFFTN\XRNJVRNJ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

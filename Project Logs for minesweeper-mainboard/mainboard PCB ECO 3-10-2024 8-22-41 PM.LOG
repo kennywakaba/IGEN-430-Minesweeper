@@ -1,0 +1,15 @@
+Change Component Description : Designator=D3 Old Description=Green LED, 565 nm 0805Diffused, Rectangle Lens SMD package New Description=Green LED, 565 nm 0805Diffused, Rectangle Lens SMD package | Lumex SML-LXT0805GW-TR
+Change Component Description : Designator=D2 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D6 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D7 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D8 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Change Component Description : Designator=D9 Old Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr New Description=LED;Red;11mcd;0.061In.Dia.;SMD;100mA;2V Vf;635nm;140deg;SMD;White Diffused;5V Vr | Lumex SML-LXT0805IW-TR
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C1 0.1uF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component C10 33nF 50V
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R5 0
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R6 53.6k
+Added Member To Class: ClassName=Power Input & Regulation Member=Component R7 10.2k
+Added Room: Name=555 Metal Detector Circuit
+Added Room: Name=ESP32 Microcontroller
+Added Room: Name=Power Input & Regulation
+Added Room: Name=Raspberry Pi, BLDC, Stepper, and Coil Connectors
